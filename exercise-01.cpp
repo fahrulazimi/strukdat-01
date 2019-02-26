@@ -1,7 +1,7 @@
 /*
 	Author 		: Muhamad Fahrul Azimi
 	NPM 		: 140810180027
-	Deskripsi	: Program ini dibuat untuk
+	Deskripsi	: Program ini dibuat untuk fizz buzz
 	Tahun 		: 2019
 */
 
